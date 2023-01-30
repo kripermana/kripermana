@@ -18,3 +18,9 @@
 kri1107/kri1107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+###### My Old Github Account 
+- Old Github Account: https://github.com/fakhri1107
+Why i was changing into new account?
+
+> Because i can't access my old number phone anymore.
