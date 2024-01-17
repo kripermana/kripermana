@@ -1,26 +1,19 @@
 # About Me
 
-- 👋 Hello, I'm @kri1107
-- 👀 Currently interested to php, MySQL, HTML & CSS, JavaScript, Kotlin
-- 🌱 Studying Kotlin
-- 💞️ Find a Girl
-- 📫 Connected to me via **WhatsApp**, **Facebook**, **Instagram**
+- 👋 nama saya mas kri ganteng banget
+- 👀 Bakso tanpa tepung, BOKEP!
+- 🌱 tumbuh kyk jembut
+- 💞️ ya nanti
+- 📫 ketemuan asu
 
 ## My Contacts:
 
 - Instagram: https://instagram.com/kri.ap
 - Facebook: https://www.facebook.com/fakhri.arkanantapermana
-- WhatsApp: https://wa.me/+6281281181050
 
 ###### Qoutes
-> We born not for arranged by the situation, but for arranging the situation.
+> Pilih duit atau segg? pilihan macam apa itu rugi dong
 <!---
 kri1107/kri1107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-###### My Old Github Account 
-- Old Github Account: https://github.com/fakhri1107
-Why i was changing into new account?
-
-> Because i can't access my old number phone anymore.
