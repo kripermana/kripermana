@@ -5,7 +5,7 @@
 - 🌱 Jakarta
 - 💞️ Single
 
-## My Contacts:
+## My Socials:
 
 - [Instagram](https://instagram.com/kri.ap)
 - [Facebook](https://www.facebook.com/fakhri.arkanantapermana)
