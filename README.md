@@ -1,4 +1,7 @@
-# About Me
+# kripermana
+## Network Engineer, Network Security, ITNSA, DevOps, Web Programmer
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4734bfaa-a855-47d9-823c-c47e771e131e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 - 👋 Hi, nama saya Fakhri Arkananta Permana
 - 👀 Network Engineer, Administrator, IT Support, Tukang cabut colok
